@@ -1,0 +1,6 @@
+[submodule "components/esp-tflite-lib"]
+	path = components/esp-tflite-lib
+	url = https://github.com/M-D-777/esp-tflite-lib
+[submodule "components/esp-nn"]
+	path = components/esp-nn
+	url = https://github.com/espressif/esp-nn.git
